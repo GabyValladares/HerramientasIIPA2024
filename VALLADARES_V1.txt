@@ -11,3 +11,6 @@ Al crear una nueva rama mientras estás en la rama de un compañero, la nueva ra
 
 
 4. ¿Qué comando se usa para confirmar los cambios en Git?
+
+
+5. ¿Qué comando se utiliza para crear una nueva rama?
