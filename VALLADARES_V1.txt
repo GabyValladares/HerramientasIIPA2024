@@ -2,4 +2,5 @@ el versionamiento de código fuente a mi criterio es .....
 Al crear una nueva rama mientras estás en la rama de un compañero, la nueva rama se generará con el contenido de la rama activa en ese momento.
 --------PREGUNTAS--------- 
 1. ¿Qué comando se utiliza para clonar un repositorio existente?
+Gaby: Se utiliza el comando git clone 
 
