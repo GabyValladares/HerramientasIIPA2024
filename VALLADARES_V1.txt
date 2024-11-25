@@ -5,3 +5,6 @@ Al crear una nueva rama mientras estás en la rama de un compañero, la nueva ra
 
 
 2. ¿Cuál es el comando que sirve para verificar el estado actual del repositorio local?
+
+
+3. ¿Cómo se agregan archivos al área de preparacion?
