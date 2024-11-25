@@ -3,14 +3,3 @@ Al crear una nueva rama mientras estás en la rama de un compañero, la nueva ra
 --------PREGUNTAS--------- 
 1. ¿Qué comando se utiliza para clonar un repositorio existente?
 
-
-2. ¿Cuál es el comando que sirve para verificar el estado actual del repositorio local?
-
-
-3. ¿Cómo se agregan archivos al área de preparacion?
-
-
-4. ¿Qué comando se usa para confirmar los cambios en Git?
-
-
-5. ¿Qué comando se utiliza para crear una nueva rama?
