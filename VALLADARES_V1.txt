@@ -8,3 +8,6 @@ Al crear una nueva rama mientras estás en la rama de un compañero, la nueva ra
 
 
 3. ¿Cómo se agregan archivos al área de preparacion?
+
+
+4. ¿Qué comando se usa para confirmar los cambios en Git?
